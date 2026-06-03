@@ -293,7 +293,7 @@
 
 <script>
 
-const API_URL = ['https://script.google.com/macros/s/AKfycbyLW_X5PHRg-i-2OWa0N9wKSn04bOBMJGrcJig0CYLjPt5f1k7oSsmv5QsBmBfAIsZc/exec](https://script.google.com/macros/s/AKfycbwGXpUCa2Utx8bDpAG3_N7xkQq4BRQXuQErvJxWh_6PMfbSNtHb4K2sQp4GjnS8qawb/exec)';
+const API_URL = '[https://script.google.com/macros/s/AKfycbyLW_X5PHRg-i-2OWa0N9wKSn04bOBMJGrcJig0CYLjPt5f1k7oSsmv5QsBmBfAIsZc/exec](https://script.google.com/macros/s/AKfycbxtNDsTZsMAqduFN1tzu0pcoOsl8jGEsVnvaZi6VXD_tKC1m_6HpVkPINsSgE2FiPTj/exec)';
 
 let appData = { students: [] };
 let isAdminLoggedIn = false;
@@ -946,4 +946,3 @@ window.onload = ()=>{
 </body>
 </html>
 
-# jejakkaryaku
