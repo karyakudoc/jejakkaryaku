@@ -293,7 +293,7 @@
 
 <script>
 
-const API_URL = '[https://script.google.com/macros/s/AKfycbyLW_X5PHRg-i-2OWa0N9wKSn04bOBMJGrcJig0CYLjPt5f1k7oSsmv5QsBmBfAIsZc/exec](https://script.google.com/macros/s/AKfycbx2ZogJJLVMM2fs3kjJI2vs9dzOXh0e8FUI2OeP4znGZcSxj-Eijaxk96HA0XiDgi8i/exec)';
+const API_URL = 'https://script.google.com/macros/s/AKfycbx2ZogJJLVMM2fs3kjJI2vs9dzOXh0e8FUI2OeP4znGZcSxj-Eijaxk96HA0XiDgi8i/exec';
 
 let appData = { students: [] };
 let isAdminLoggedIn = false;
